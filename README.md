@@ -1,16 +1,12 @@
 # image_picker_flutter
 
-A new Flutter project.
+## Author
 
-## Getting Started
+👤 **Abinayan Ratnasingam**
 
-This project is a starting point for a Flutter application.
+- Github: https://github.com/AbinayanRatna
+- LinkedIn: https://www.linkedin.com/in/abinayan-ratnasingam-5092b3214/
 
-A few resources to get you started if this is your first Flutter project:
+## Show your support
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Give a ⭐️ if this project helped you!
